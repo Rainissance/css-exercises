@@ -9,7 +9,12 @@
     font-weight: bold;
 }
 
-.odd {
+.odd,
+.three {
     background-color: rgb(236, 182, 182);
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.three {
+    font-size: 24px;
 }
